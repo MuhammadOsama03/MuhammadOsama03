@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Muhammad Osama 👋
+
+I build small web apps and tools.
+
+## Projects
+- [Sarim's School Tracker](https://muhammadosama03.github.io/sarims-school-tracker/) — a gamified attendance & study tracker built with HTML, CSS, and JavaScript
 
 <!--
 **MuhammadOsama03/MuhammadOsama03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
