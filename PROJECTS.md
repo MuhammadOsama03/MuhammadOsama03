@@ -12,6 +12,8 @@ A quick guide to the repositories in this account.
 | [Portfolio](https://github.com/MuhammadOsama03/portfolio) | Personal project showcase | HTML, CSS, JavaScript |
 | [Habit Tracker](https://github.com/MuhammadOsama03/habit-tracker) | Habit dashboard interface | Next.js, TypeScript |
 | [School Tracker](https://github.com/MuhammadOsama03/sarims-school-tracker) | Local-first study and attendance tracker | HTML, CSS, JavaScript |
-| [AgentLens](https://github.com/MuhammadOsama03/AgentLens) | AI-agent observability workspace | Planned TypeScript stack |
+| [FlowBeacon](https://github.com/MuhammadOsama03/FlowBeacon) | AI-agent tracing, debugging and operational intelligence | FastAPI, Next.js, OpenTelemetry |
+
+AgentLens contains the original observability concept; active development continues under FlowBeacon.
 
 Each repository README contains its setup steps and current status.
