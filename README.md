@@ -4,7 +4,7 @@ I build small web apps and tools.
 
 ## Projects
 - **DevPulse** is a dashboard for running on-demand checks on websites and APIs and viewing HTTP status, response times, and recent check history. [Live demo](https://devpulse-pi-one.vercel.app/) · [Source code](https://github.com/MuhammadOsama03/DevPulse)
-- [Sarim's School Tracker](https://muhammadosama03.github.io/sarims-school-tracker/) — a gamified attendance & study tracker built with HTML, CSS, and JavaScript
+- **HIFAZAT** is a team IoT project for preliminary milk and water quality screening. An ESP32 collects sensor readings, Firebase syncs them, and a Flutter app displays live readings and history. [Source code](https://github.com/umairazhar850-cmd/hifazat-app)
 
 <!--
 **MuhammadOsama03/MuhammadOsama03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
