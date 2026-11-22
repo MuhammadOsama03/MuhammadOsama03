@@ -3,6 +3,7 @@
 I build small web apps and tools.
 
 ## Projects
+- **DevPulse** is a dashboard for running on-demand checks on websites and APIs and viewing HTTP status, response times, and recent check history. [Live demo](https://devpulse-pi-one.vercel.app/) · [Source code](https://github.com/MuhammadOsama03/DevPulse)
 - [Sarim's School Tracker](https://muhammadosama03.github.io/sarims-school-tracker/) — a gamified attendance & study tracker built with HTML, CSS, and JavaScript
 
 <!--
